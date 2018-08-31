@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+        * {
+            font-family: 'Helvetica Neue', 'Open Sans', Arial, Helvetica, sans-serif
+        }
+
+        body {
+            width: 100%;
+            padding: 0;
+            margin: 0;
+            /*box-sizing: border-box;*/
+        }
+
+        div {
+            margin: 12px;
+            /*box-sizing: border-box;*/
+        }
+
+        p {
+            color: #343434;
+        }
+
+        .red {
+            color: #a81b1b;
+        }
+
+        .indent {
+            margin-left: 20px;
+            color: #000;
+        }
+
+        .large {
+            font-size: 1.1em;
+        }
+
+        .larger {
+            font-size: 1.2em;
+            font-weight: 700;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <div style="max-width: 500px; display: table; margin: 0 auto;">
+        <p>Hi and thanks for reaching out for more info on this unit.</p>
+        <p style="margin-top: 30px; text-align: center"><strong>THE QUOTE YOU REQUESTED</strong></p>
+
+        <p>The {@make@} with the options you selected is <strong>only <span class="larger">{@price@}!</span>*</strong><br>
+        {@discount@}</p>
+
+        <p style="font-style: italic">*This quote is only valid for 48 hours, any sale discounts require financing with
+            RV Wholesalers. Discount subject to credit approval and may be adjusted based upon bank participation.</p>
+
+        <p>If you need assistance right away please feel free to call 877-877-4494 to speak with an RV Consultant.</p>
+
+        <p>As you know, our prices is the best and our service is simply unmatched. One of our RV Consultants will be
+            in contact within the next 48 hours to see how we can serve you and answer any questions you may have.</p>
+
+        <p>Thanks so much for giving us the chance to earn your business – we sincerely appreciate it!</p>
+
+        <p><strong>RV Wholesalers</strong><br>877-877-4494<br>530 N Main St<br>Lakeview, Ohio<br>43331</p>
+
+        <p>PS: if you don’t live close to Ohio, don’t let that scare you. We price match across the entire United States
+            and we make it easy to either come pick up your unit or very cost effective to ship your unit to you all
+            while saving you thousands!</p>
+    </div>
+</div>
+</body>
+</html>
